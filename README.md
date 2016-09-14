@@ -1,2 +1,4 @@
-# java_bytes
+# Java Bytes
+=============
+
 This repository will contain random rumblings of java based concepts
